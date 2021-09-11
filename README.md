@@ -5,3 +5,4 @@ Frontend para el aplicativo de Psicotools
 
 * Daniel Alfaro
 * Jeffersonn Urrea
+* Juan Daniel Bermúdez 
