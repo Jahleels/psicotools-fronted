@@ -4,3 +4,4 @@ Frontend para el aplicativo de Psicotools
 # Integrantes
 
 * Daniel Alfaro
+* Jahleel Solano
